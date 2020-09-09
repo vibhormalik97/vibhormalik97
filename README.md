@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<i class="ri-mail-fill"></i>
 <!--
 **vibhormalik97/vibhormalik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
