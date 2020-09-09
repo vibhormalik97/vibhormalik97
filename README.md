@@ -1,15 +1,15 @@
 <p align="center">
   <a href="mailto: vibhormalik97@gmail.com">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-important-mail-96.png", style="border:0px;margin:0px;float:right" />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-important-mail-48.png", style="border:0px;margin:0px;float:right" />
   </a>
 
 
   <a href="https://www.linkedin.com/in/vibhor-malik/">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-linkedin-96.png" />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-linkedin-48.png" />
   </a>
                                                                                       
   <a href="https://twitter.com/Vibhor_Malik97/">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-twitter-96.png", style=”float:right”/>
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-twitter-48.png", style=”float:right”/>
   </a>
 </p>
 
