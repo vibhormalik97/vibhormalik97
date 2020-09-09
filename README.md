@@ -21,21 +21,10 @@
 
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
-I am currently working at Rupert LLC in New York as a Data Science Intern. Feel free to reach out to me at one of the links shared above :)
 
+- 🔭 I’m currently working on BERT-based sentence similarity models at Rupert LLC in New York as a Data Science Intern
+- 🌱 I’m currently learning reinforcement learning with a specific interest in its applications in NLP and finance.
+- 😄 Pronouns: He/Him
+- 📫 Feel free to reach out to me at any of the links shared above :)
 
-
-<!--
-**vibhormalik97/vibhormalik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vibhor's github stats](https://github-readme-stats.vercel.app/api?username=vibhormalik97)](https://github.com/anuraghazra/github-readme-stats)
