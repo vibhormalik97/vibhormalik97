@@ -8,7 +8,7 @@
 
 
   <a href="https://www.linkedin.com/in/vibhor-malik/">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-linkedin-50.png" />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-linkedin-48.png" />
   </a>
                                                                                       
   <a href="https://twitter.com/Vibhor_Malik97/">
