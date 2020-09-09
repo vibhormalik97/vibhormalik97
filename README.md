@@ -5,7 +5,7 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
 
 <p align="center">
   <a href="mailto: vibhormalik97@gmail.com">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png" />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png", style=”float:left” />
   </a>
 
 
@@ -14,7 +14,7 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
   </a>
                                                                                       
   <a href="https://twitter.com/Vibhor_Malik97/">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/twitter-fill.png" />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/twitter-fill.png", style=”float:right”/>
   </a>
 </p>
 <!--
