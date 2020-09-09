@@ -21,6 +21,8 @@
 
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
+i currently work at Rupert LLC in New York as a Data Science Intern. Feel free to reach out to me at one of the links shared above :)
+
 
 
 <!--
