@@ -2,7 +2,10 @@
 
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
-![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png?raw=true)
+![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line (1).png?raw=true)
+![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/linkedin-fill.png?raw=true)
+![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/twitter-fill.png?raw=true)
+
 <!--
 **vibhormalik97/vibhormalik97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
