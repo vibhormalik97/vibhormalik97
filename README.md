@@ -2,11 +2,13 @@
 
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
-<a href="mailto: vibhormalik97@gmail.com">
+
 <p align="center">
+  <a href="mailto: vibhormalik97@gmail.com">
   <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png" />
+  </a>
 </p>
-</a>
+
 <a href="https://www.linkedin.com/in/vibhor-malik/">
 <p align="center">
 <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/linkedin-fill.png" />
