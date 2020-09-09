@@ -2,7 +2,7 @@
 
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
-<a href="vibhormalik97@gmail.com">
+<a href="mailto: vibhormalik97@gmail.com">
 <p align="center">
   <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png" />
 </p>
