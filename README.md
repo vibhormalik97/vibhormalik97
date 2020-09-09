@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/12.png", style="border:0px;margin:0px;float:right" />
+</p>
+<p align="center">
   <a href="mailto: vibhormalik97@gmail.com">
   <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/icons8-sent-64.png", style="border:0px;margin:0px;float:right" />
   </a>
