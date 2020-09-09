@@ -5,7 +5,7 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
 
 <p align="center">
   <a href="mailto: vibhormalik97@gmail.com">
-  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png", style=”float:left” />
+  <img src="https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png", style="border:0px;margin:0px;float:right" />
   </a>
 
 
