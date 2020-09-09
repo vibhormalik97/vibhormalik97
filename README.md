@@ -4,7 +4,7 @@ I'm a mechanical engineer turned data scientist who is passionate about artifici
 
 
 <a href="http://google.com/">
-<!-- ![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png?raw=true) -->
+![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/mail-line.png?raw=true)
 <!-- ![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/linkedin-fill.png?raw=true) -->
 <!-- ![Alt text](https://github.com/vibhormalik97/vibhormalik97/blob/master/twitter-fill.png?raw=true) -->
 
