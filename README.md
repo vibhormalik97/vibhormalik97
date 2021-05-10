@@ -22,8 +22,8 @@
 I'm a mechanical engineer turned data scientist who is passionate about artificial intelligence and its ability to make our world a better place. Typically, I like to work on projects involving business analytics, nlp, reinforcement learning, or finance. In my spare time, you will either find me cooking or travelling.
 
 
-- 🔭 I’m currently working on BERT-based sentence similarity models at Rupert LLC in New York as a Data Science Intern
-- 🌱 I’m currently learning reinforcement learning with a specific interest in its applications in NLP and finance.
+- 🔭 I’m currently working on predictive maintenance data science models at Uptake.
+- 🌱 I’m currently learning cloud services and working on getting an Azure certification.
 - 😄 Pronouns: He/Him
 - 📫 Feel free to reach out to me at any of the links shared above :)
 
